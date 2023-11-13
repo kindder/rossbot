@@ -3,7 +3,7 @@ const questions = [
     "Disposez-vous d’un bachelor en, gestion, ressources humaines, commerce ou en méthode quantitatives ?",
     "Maîtrisiez-vous les outils/logiciels de gestion, spécialement l’outil SAGE ?",
     "Est-ce que vous vous qualifiez comme une personne empathique ?",
-    "Êtes-vous dotée d’un sens d’observation aiguisé ?",
+    "Êtes-vous doté(e) d’un sens d’observation aiguisé ?",
     "Avez-vous géré(e) auparavant la digitalisation d’une fonction dans votre organisation précédente ?",
     "Avez-vous atteint vos objectifs qualitatifs au sein de votre précédente organisation ?",
     "Êtes-vous en poste actuellement ?",
